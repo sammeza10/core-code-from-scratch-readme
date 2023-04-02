@@ -18,4 +18,4 @@
 
 2 [Date of birth 👧](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Date%20of%20birth%20%F0%9F%91%A7)
 
-3 [](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Geometry%20%F0%9F%93%90)
+3 [Treasures 👑](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Treasures%20%F0%9F%91%91)
