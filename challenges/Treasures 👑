@@ -1,0 +1,11 @@
+Find the treasure 👑
+
+![chest](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/img/chests.png)
+
+Since all the messages are lies
+
+a) the middle chest  has a treasure	> the middle chest does not have a treasure 
+b) all these chests have treasure > all these chests do not have treasure
+c) only one has a treasure > only one does not have a treasure
+
+chestd that have a treasure is the left and the right chest.
