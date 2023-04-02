@@ -16,6 +16,6 @@
 
 1 [Numbers 📊](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Numbers%20%F0%9F%93%8A)
 
-2 [Hot N Cold 🤒 🧊 🔥](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Hot%20N%20Cold%20%F0%9F%A4%92%20%F0%9F%A7%8A%20%F0%9F%94%A5)
+2 [Date of birth 👧](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Date%20of%20birth%20%F0%9F%91%A7)
 
-3 [Geometry 📐](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Geometry%20%F0%9F%93%90)
+3 [](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Geometry%20%F0%9F%93%90)
