@@ -1,6 +1,10 @@
 Find the treasure 👑
 
-<img width="354" alt="image" src="https://user-images.githubusercontent.com/29307118/202836372-19159ef8-14d5-4ecf-b08c-819b05e79f81.png">
+We are in a room with three chests. We know that at least one has a treasure in it. Each chest has a message, but all the messages are lies.
+
+a) the middle chest  has a treasure
+b) all these chests have treasure
+c) only one has a treasure
 
 Since all the messages are lies
 
