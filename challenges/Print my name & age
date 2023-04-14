@@ -1,6 +1,6 @@
 Print my name & age
 
-Algoritmo myName
+Algoritmo myNameAndAge
 	Imprimir  'Samuel Meza'
 	Imprimir  30
 FinAlgoritmo
