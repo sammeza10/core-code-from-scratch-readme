@@ -23,4 +23,6 @@
 
 ## Week 2
 
+### Monday 💻
+
 1 [Logic problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Logic%20problem)
