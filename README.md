@@ -28,3 +28,9 @@
 1 [Logic problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Logic%20problem)
  
 2 [Cereal vrs Milk]( https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Cereal%20vrs%20Milk)
+
+### Tuesday 💻
+
+1 [Print my name]()
+
+2 [Print my name & age]( )
