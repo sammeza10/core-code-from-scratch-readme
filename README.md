@@ -19,3 +19,8 @@
 2 [Date of birth 👧](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Date%20of%20birth%20%F0%9F%91%A7)
 
 3 [Treasures 👑](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Treasures%20%F0%9F%91%91)
+
+
+## Week 2
+
+1 [Logic problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Logic%20problem)
