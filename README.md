@@ -46,6 +46,6 @@
 
 1 [Truth tables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Truth%20tables)
 
-2 [Boolean results]()
+2 [Boolean results](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Boolean%20results)
 
 3 [Identify odd and even numbers]()
