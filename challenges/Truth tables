@@ -1,6 +1,5 @@
 Truth tables
 
-
     T & T = T ✅
     T & F = F ✅
     F & T = T ❌
