@@ -40,5 +40,4 @@
 
 2 [Mod](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Mod)
 
-3 [Register form]([https://github.com/sammeza10/core-code-from-scratch-readme/tree/main/challenges](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Register%20form))
-
+3 [Register form](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Register%20form)
