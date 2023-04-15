@@ -38,6 +38,6 @@
 ### Wednesday 💻
 1 [Algorithm game](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Algorithm%20game)
 
-1 [Mod](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Mod)
+2 [Mod](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Mod)
 
 
