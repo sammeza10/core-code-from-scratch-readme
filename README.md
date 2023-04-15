@@ -44,7 +44,7 @@
 
 ### Thursday
 
-1 [Truth tables]()
+1 [Truth tables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Truth%20tables)
 
 2 [Boolean results]()
 
