@@ -1,4 +1,4 @@
-Logic problem
+# Logic problem
 
 The teacher asks his 5 students if they studied mathematics yesterday.
 
