@@ -48,4 +48,4 @@
 
 2 [Boolean results]()
 
-3 [Algorithm game](Identify odd and even numbers)
+3 [Identify odd and even numbers]()
