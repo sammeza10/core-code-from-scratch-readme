@@ -1,4 +1,4 @@
-Even or Odd
+#Even or Odd
 
     Take the number as input.
     Check if the number is divisible by 2 (if the remainder of the number divided by 2 is 0).
@@ -33,11 +33,3 @@ Even or Odd
               |    END    |
               |           |
               +-----------+
-   
-   
-    
-       
-                                   
-                                    
-                                    
-                   
