@@ -36,5 +36,5 @@
 2 [Print my name & age](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Print%20my%20name%20%26%20age)
 
 ### Wednesday 💻
-1 []()
+1 [Algorithm game]()
 
