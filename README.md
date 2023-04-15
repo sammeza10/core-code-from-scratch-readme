@@ -48,4 +48,4 @@
 
 2 [Boolean results](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Boolean%20results)
 
-3 [Identify odd and even numbers]()
+3 [Identify odd and even numbers](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Identify%20odd%20and%20even%20numbers)
