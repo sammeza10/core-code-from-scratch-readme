@@ -1,4 +1,4 @@
-Truth tables
+# Truth tables
 
     T & T = T ✅
     T & F = F ✅
