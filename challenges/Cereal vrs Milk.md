@@ -15,6 +15,6 @@ Prepare a bowl of cereal with milk
 6. Enjoy the cereal with milk!
 
 
-![cereal](https://github.com/sammeza10/core-code-from-scratch-readme/blob/6e136a7c2117813374ca8cb64cd0ecd0cbaa53a6/img/cereal.png | 400 px)
+![cereal](https://github.com/sammeza10/core-code-from-scratch-readme/blob/6e136a7c2117813374ca8cb64cd0ecd0cbaa53a6/img/cereal.png)
  
 	
