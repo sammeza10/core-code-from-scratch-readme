@@ -1,4 +1,4 @@
-Print my name
+# Print my name in PseInt	
 
 Algoritmo myName
 	Imprimir  'Samuel Meza'
