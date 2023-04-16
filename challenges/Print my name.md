@@ -1,8 +1,8 @@
 # Print my name in PseInt	
 
-Algoritmo myName
+	Algoritmo myName
 
-	Imprimir  'Samuel Meza'
+		Imprimir  'Samuel Meza'
 	
-FinAlgoritmo
+	FinAlgoritmo
  
