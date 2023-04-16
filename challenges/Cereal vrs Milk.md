@@ -14,12 +14,12 @@ Prepare a bowl of cereal with milk
 START
 
 Place a bowl on a flat surface
-     Take out the box of cereal and open it
-               Pour an appropriate amount into the bowl
-               Take out the carton of milk and open it
-                           Pour an appropriate amount over the cereal
-               Put away the boxes and carton of milk
-               Get a spoon and mix the cereal and milk together
+Take out the box of cereal and open it
+Pour an appropriate amount into the bowl
+Take out the carton of milk and open it
+Pour an appropriate amount over the cereal
+Put away the boxes and carton of milk
+Get a spoon and mix the cereal and milk together
 Enjoy the cereal with milk!
 
 END
