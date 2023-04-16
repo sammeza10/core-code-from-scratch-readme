@@ -8,6 +8,7 @@ Prepare a bowl of cereal with milk
 3. Ask for the frui:
 
 	Add the fruit.
+	
 	Add some granola.
 	
 5. Take out the carton of milk, open it and pour an appropriate amount over the cereal.
