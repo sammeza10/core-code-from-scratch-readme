@@ -50,7 +50,7 @@
 
 3 [Identify odd and even numbers](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Identify%20odd%20and%20even%20numbers.md)
 
-## Week 1
+## Week 3
 
 ### Monday 💻
 
