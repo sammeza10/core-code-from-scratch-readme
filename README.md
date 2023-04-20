@@ -54,7 +54,7 @@
 
 ### Monday 💻
 
-1 [Simple calculator]()
+1 [Simple calculator](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator.md)
 
 2 [Special number]()
 
