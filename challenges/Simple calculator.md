@@ -38,7 +38,7 @@
 			Escribir resultado
 		FinSi
 	
-		si ope <> "+" | signo <> "-" | signo <> "/" | signo <> "/" Entonces
+		si ope != "+" | signo != "-" | signo != "/" | signo != "/" Entonces
 			Escribir "Operacion invalida"
 		FinSi
 	
