@@ -13,7 +13,7 @@ For this challenge you will be performing a simple calculator using Switch (Segu
 		Escribir "Enter the first number"
 		Leer num1
 	
-		Escribir "Enter the first number"
+		Escribir "Enter the second number"
 		Leer num2
 	
 		Escribir "Enter the Operation +, -, /, *"
@@ -21,15 +21,15 @@ For this challenge you will be performing a simple calculator using Switch (Segu
 	
 		Segun ope Hacer
 			"+":
-				Imprimir  "resultado: " + ConvertirATexto(num1 + num2)
+				Imprimir  "result: " + ConvertirATexto(num1 + num2)
 			"-":
-				Imprimir  "resultado: " + ConvertirATexto(num1 - num2)
+				Imprimir  "result: " + ConvertirATexto(num1 - num2)
 			"/":
-				Imprimir  "resultado: " + ConvertirATexto(num1 / num2)
+				Imprimir  "result: " + ConvertirATexto(num1 / num2)
 			"*":
-				Imprimir  "resultado: " + ConvertirATexto(num1 * num2)
+				Imprimir  "result: " + ConvertirATexto(num1 * num2)
 			De Otro Modo:
-				Imprimir  "Operacion no valida"
+				Imprimir  "Invalid Operation"
 		Fin Segun
 	
 	FinAlgoritmo
