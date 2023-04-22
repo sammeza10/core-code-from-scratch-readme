@@ -32,4 +32,4 @@ For this challenge you will be performing a simple calculator using Switch (Segu
 				Imprimir  "Invalid Operation"
 		Fin Segun
 	
-	FinAlgoritmo
+	FinAlgoritmo 
