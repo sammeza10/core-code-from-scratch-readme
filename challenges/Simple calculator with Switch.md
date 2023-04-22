@@ -9,3 +9,27 @@ For this challenge you will be performing a simple calculator using Switch (Segu
 
 
 
+	Algoritmo calcSwitch
+		Escribir "Enter the first number"
+		Leer num1
+	
+		Escribir "Enter the first number"
+		Leer num2
+	
+		Escribir "Enter the Operation +, -, /, *"
+		Leer ope
+	
+		Segun ope Hacer
+			"+":
+				Imprimir  "resultado: " + ConvertirATexto(num1 + num2)
+			"-":
+				Imprimir  "resultado: " + ConvertirATexto(num1 - num2)
+			"/":
+				Imprimir  "resultado: " + ConvertirATexto(num1 / num2)
+			"*":
+				Imprimir  "resultado: " + ConvertirATexto(num1 * num2)
+			De Otro Modo:
+				Imprimir  "Operacion no valida"
+		Fin Segun
+	
+	FinAlgoritmo
