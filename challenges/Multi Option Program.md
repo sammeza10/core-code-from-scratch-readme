@@ -1,6 +1,6 @@
 # Multi Option Program
 
-for this challenge you will create a program with multiple options using Switch (Segun), the options available are the following:
+For this challenge you will create a program with multiple options using Switch (Segun), the options available are the following:
 
 Sum two numbers.
 
