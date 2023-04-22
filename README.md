@@ -63,3 +63,9 @@
 1 [Simple calculator with Switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator%20with%20Switch.md)
 
 1 [Multi Option Program]()
+
+### Wednesday 💻
+
+1 [Multiplication Tables]()
+
+1 [Simple Calculator with Do While]()
