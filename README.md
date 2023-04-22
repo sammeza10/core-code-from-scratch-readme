@@ -62,7 +62,7 @@
 
 1 [Simple calculator with Switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator%20with%20Switch.md)
 
-2 [Multi Option Program]()
+2 [Multi Option Program](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Multi%20Option%20Program.md)
 
 ### Wednesday 💻
 
