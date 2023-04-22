@@ -60,6 +60,6 @@
 
 ### Tuesday 💻
 
-1 [Simple calculator with Switch]()
+1 [Simple calculator with Switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Special%20number.md)
 
 1 [Multi Option Program]()
