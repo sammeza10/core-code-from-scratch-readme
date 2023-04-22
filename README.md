@@ -72,5 +72,8 @@
 
 ### Thursday 💻
 
+1 [Multiplication Tables with For]()
 
+2 [Ascending and Descending Numbers]()
 
+3 [Greetings]()
