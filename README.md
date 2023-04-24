@@ -72,7 +72,7 @@
 
 ### Thursday 💻
 
-1 [Multiplication Tables with For]()
+1 [Multiplication Tables with For](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/multiplication%20Tables%20with%20For.md)
 
 2 [Ascending and Descending Numbers]()
 
