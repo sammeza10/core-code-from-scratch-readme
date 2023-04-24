@@ -13,3 +13,4 @@ Create a program to calculate the multiplication tables for a given number using
         i = i + 1
       Fin Mientras
     FinAlgoritmo
+ 
