@@ -66,7 +66,7 @@
 
 ### Wednesday 💻
 
-1 [Multiplication Tables](https://github.com/sammeza10/core-code-from-scratch-readme/edit/main/challenges/Multiplication%20Tables.md)
+1 [Multiplication Tables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Multiplication%20Tables.md)
 
 2 [Simple Calculator with Do While](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator%20with%20Do%20While.md)
 
@@ -78,3 +78,4 @@
 
 3 [Greetings]()
  
+
