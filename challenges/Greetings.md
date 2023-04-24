@@ -9,33 +9,33 @@ Create a program that prints a greeting based on an hour entered. The program sh
     At the end of the program, print out the number of times the program has greeted.
 
 
-Algoritmo saludo
-	
-	Imprimir '===== Saludo ====='
-	Definir continuar Como Cadena
-	Definir saludos Como Entero
-	
-	saludos <- 0
-	continuar <- 'Si'
-	
-	Mientras continuar == 'Si' Hacer
-		Imprimir 'Ingrese hora actual (0-23):'
-		Leer hora
-		Si hora <= 12 Entonces
-			Imprimir 'Buenas dias!'
-		SiNo
-			Si hora <= 18 Entonces
-				Imprimir 'Buenas tardes!'
+	Algoritmo saludo
+
+		Imprimir '===== Saludo ====='
+		Definir continuar Como Cadena
+		Definir saludos Como Entero
+
+		saludos <- 0
+		continuar <- 'Si'
+
+		Mientras continuar == 'Si' Hacer
+			Imprimir 'Ingrese hora actual (0-23):'
+			Leer hora
+			Si hora <= 12 Entonces
+				Imprimir 'Buenas dias!'
 			SiNo
-				Imprimir 'Buenas noches!'
+				Si hora <= 18 Entonces
+					Imprimir 'Buenas tardes!'
+				SiNo
+					Imprimir 'Buenas noches!'
+				Fin Si
 			Fin Si
-		Fin Si
-		
-		saludos <- saludos + 1
-		
-		Imprimir 'Desea continuar ? Si/No'
-		Leer continuar
-	Fin Mientras
-	
-	Imprimir 'Cantidad de Saludos realizados: ' + ConvertirATexto(saludos)
-FinAlgoritmo
+
+			saludos <- saludos + 1
+
+			Imprimir 'Desea continuar ? Si/No'
+			Leer continuar
+		Fin Mientras
+
+		Imprimir 'Cantidad de Saludos realizados: ' + ConvertirATexto(saludos)
+	FinAlgoritmo
