@@ -74,7 +74,7 @@
 
 1 [Multiplication Tables with For](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/multiplication%20Tables%20with%20For.md)
 
-2 [Ascending and Descending Numbers]()
+2 [Ascending and Descending Numbers](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Ascending%20and%20Descending%20Numbers.md)
 
 3 [Greetings]()
  
