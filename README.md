@@ -76,6 +76,6 @@
 
 2 [Ascending and Descending Numbers](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Ascending%20and%20Descending%20Numbers.md)
 
-3 [Greetings]()
+3 [Greetings](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Greetings.md)
  
 
