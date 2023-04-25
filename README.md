@@ -78,4 +78,35 @@
 
 3 [Greetings](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Greetings.md)
  
+## Week 4 pending
+
+### Monday 💻
+
+1 [Average sales and commission]()
+
+2 [Even or odd]()
+
+### Tuesday 💻
+
+1 [Predefined functions]()
+
+2 [Full name]()
+
+3 [Throw dice]()
+
+### Wednesday 💻
+
+1 [Distance to zero]()
+
+2 [Toss coin]()
+
+### Thursday 💻
+
+1 [Structure of a function]()
+
+2 [Total price]()
+
+3 [Reverse direction and size]()
+ 
+
 
