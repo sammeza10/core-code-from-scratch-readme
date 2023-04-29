@@ -88,11 +88,9 @@
 
 ### Tuesday 💻
 
-1 [Predefined functions]()
+1 [Full name]()
 
-2 [Full name]()
-
-3 [Throw dice]()
+2 [Throw dice]()
 
 ### Wednesday 💻
 
