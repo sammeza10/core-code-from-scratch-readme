@@ -100,7 +100,7 @@
 
 ### Thursday 💻
 
-1 [Total price]()
+1 [Total price](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Total%20price.md)
 
 2 [Reverse direction and size]()
  
