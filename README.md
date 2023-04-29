@@ -84,7 +84,7 @@
 
 1 [Average sales and commission](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Average%20sales%20and%20commission.md)
 
-2 [Even or odd]()
+2 [Even or odd](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Even%20or%20odd.md)
 
 ### Tuesday 💻
 
