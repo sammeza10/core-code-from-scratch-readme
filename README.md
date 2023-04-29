@@ -102,7 +102,7 @@
 
 1 [Total price](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Total%20price.md)
 
-2 [Reverse direction and size]()
+2 [Reverse direction and size](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Reverse%20direction%20and%20size.md)
  
 
 
