@@ -8,3 +8,20 @@ Create a function called ReverseDirectionAndSize that takes some text as a param
 
 "Text" --> "TXEt"
 
+    Funcion resultado <- revertir (text)
+      Definir resultado Como Caracter;
+      resultado = "";
+      Para i = Longitud(text) Hasta 0 Con Paso -1 Hacer
+        letras = Subcadena(text,i,i);
+        SI letras = Mayusculas(letras) Entonces
+          letter = Minusculas(letras)
+        SiNo
+          letter = Mayusculas(letras)
+        FinSi
+        resultado = Concatenar(resultado, letras)
+      FinPara
+    Fin Funcion
+
+    Algoritmo ejercicioRevertir
+      Imprimir revertir("Hello")
+    FinAlgoritmo
