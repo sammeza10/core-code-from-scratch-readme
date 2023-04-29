@@ -94,7 +94,7 @@
 
 ### Wednesday 💻
 
-1 [Distance to zero]()
+1 [Distance to zero](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Distance%20to%20zero.md)
 
 2 [Toss coin]()
 
