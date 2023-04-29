@@ -88,9 +88,9 @@
 
 ### Tuesday 💻
 
-1 [Full name]()
+1 [Full name](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Full%20name.md)
 
-2 [Throw dice]()
+2 [Throw dice](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Throw%20dice.md)
 
 ### Wednesday 💻
 
