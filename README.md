@@ -82,7 +82,7 @@
 
 ### Monday 💻
 
-1 [Average sales and commission]()
+1 [Average sales and commission](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Average%20sales%20and%20commission.md)
 
 2 [Even or odd]()
 
