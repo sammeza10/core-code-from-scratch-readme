@@ -2,7 +2,7 @@
 
 ## Challenges
 
-## Week 1
+## Week 1 Algorithms
 
 ### Wednesday
 
@@ -21,7 +21,7 @@
 3 [Treasures 👑](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Treasures%20%F0%9F%91%91.md)
 
 
-## Week 2
+## Week 2 Pseudocode
 
 ### Monday 💻
 
@@ -50,14 +50,14 @@
 
 3 [Identify odd and even numbers](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Identify%20odd%20and%20even%20numbers.md)
 
-## Week 3
+## Week 3 Pseudocode
 
 ### Monday 💻
 
 1 [Simple calculator](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator.md)
 
 2 [Special number](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Special%20number.md)
-
+ 
 ### Tuesday 💻
 
 1 [Simple calculator with Switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Simple%20calculator%20with%20Switch.md)
@@ -78,7 +78,7 @@
 
 3 [Greetings](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Greetings.md)
  
-## Week 4 pending
+## Week 4 Pseudocode
 
 ### Monday 💻
 
