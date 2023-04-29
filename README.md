@@ -100,11 +100,9 @@
 
 ### Thursday 💻
 
-1 [Structure of a function]()
+1 [Total price]()
 
-2 [Total price]()
-
-3 [Reverse direction and size]()
+2 [Reverse direction and size]()
  
 
 
