@@ -118,3 +118,7 @@
 1 [Sum of pairs](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Sum%20of%20pairs.md)
 
 2 [Mid point](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Mid%20point.md)
+
+### Wednesday 💻
+
+1 [Cashier](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Cashier.md)
