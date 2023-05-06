@@ -34,3 +34,35 @@ c -->
 
 100
 
+
+    Funcion balance <- cashier ()
+      Definir balance Como Real;
+      balance = 1000;
+      Repetir
+        Imprimir "selecione una opcion:";
+        Imprimir "a. depositar";
+        Imprimir "b. retirar.";
+        Imprimir "c. salir.";
+        leer opcion
+        Si opcion = 'a' Entonces
+          balance = balance + depositar()
+        FinSi
+        Si opcion = 'b' Entonces
+          balance = balance - retirar()
+        FinSi
+      Mientras Que opcion = "a" | opcion = "b"
+    Fin Funcion
+
+    Funcion valor <- depositar()
+      Imprimir "Cuanto quiere depositar:";
+      leer valor
+    FinFuncion
+
+    Funcion valor <- retirar()
+      Imprimir "Cuanto quiere retirar:";
+      leer valor
+    FinFuncion
+
+    Algoritmo cajero
+      Imprimir cashier()
+    FinAlgoritmo
