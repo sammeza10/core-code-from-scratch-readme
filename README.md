@@ -105,4 +105,11 @@
 2 [Reverse direction and size](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Reverse%20direction%20and%20size.md)
  
 
+### Week 5 : Pseudocode & Javascript
+
+### Monday 💻
+
+1 [Time Converter](https://github.com/sammeza10/core-code-from-scratch-readme/edit/main/challenges/Time%20Converter.md)
+
+2 []()
 
