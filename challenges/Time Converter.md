@@ -26,6 +26,6 @@ Create a function called timeConverter that receives a positive number of second
 
     FinFuncion
 
-    Algoritmo exampleTimeConverter
+    Algoritmo convertidor
       Imprimir timeConverter(4000)
     FinAlgoritmo
