@@ -124,3 +124,12 @@
 1 [Cashier](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Cashier.md)
 
 2 [Weather average](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Weather%20average.md)
+
+### Thursday 💻
+
+1 [If]()
+
+2 [While]()
+
+3 [For]()
+
