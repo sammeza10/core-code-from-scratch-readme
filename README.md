@@ -109,7 +109,7 @@
 
 ### Monday 💻
 
-1 [Time Converter](https://github.com/sammeza10/core-code-from-scratch-readme/edit/main/challenges/Time%20Converter.md)
+1 [Time Converter](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Time%20Converter.md)
 
-2 []()
+2 [Compare distances](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Compare%20distances.md)
 
