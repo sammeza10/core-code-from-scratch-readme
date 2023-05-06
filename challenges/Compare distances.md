@@ -23,6 +23,6 @@ Create a function called compareDistances that asks for 5 numbers, these can be 
       resultado = positivo > Abs(negativo)
     Fin Funcion
 
-    Algoritmo exampleCompareDistances
+    Algoritmo distancias
       Imprimir compareDistances()
     FinAlgoritmo
