@@ -1,6 +1,12 @@
 # Cashier
 
-create a function called "cashier" that pretends to be a panel of a bank should display the text: "select an option: a. to deposit. b. withdraw. c. go out." and have a value called balance that will return when finished and will print it on the screen, its initial value will be 1000. You must repeat the menu until you select the option 'c'
+create a function called "cashier" that pretends to be a panel of a bank should display the text: "select an option:
+
+a. to deposit. 
+b. withdraw.
+c. go out."
+
+And have a value called balance that will return when finished and will print it on the screen, its initial value will be 1000. You must repeat the menu until you select the option 'c'
 
 if we select 'a' it invokes another function called 'deposit' that will display a text on the screen that will say 'how much do you want to deposit:' it will add that value to the balance and end the function.
 
