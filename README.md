@@ -127,7 +127,7 @@
 
 ### Thursday 💻
 
-1 [If]()
+1 [If](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/If.md)
 
 2 [While]()
 
