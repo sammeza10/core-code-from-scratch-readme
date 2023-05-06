@@ -131,5 +131,5 @@
 
 2 [While](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/While.md)
 
-3 [For]()
+3 [For](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/For.md)
 
