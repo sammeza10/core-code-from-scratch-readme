@@ -142,3 +142,7 @@
 2 [What is x?](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/What%20is%20x%3F.md)
 
 3 [Several variables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Several%20variables.md)
+
+4 [Reassignment](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Reassignment.md)
+
+
