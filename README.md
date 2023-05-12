@@ -145,4 +145,6 @@
 
 4 [Reassignment](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Reassignment.md)
 
+5 [Assign variables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Assign%20variables.md)
+
 
