@@ -133,3 +133,9 @@
 
 3 [For](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/For.md)
 
+## Week 6 JavaScript 
+
+### Tuesday 💻
+
+1 [Variables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Variables.md)
+
