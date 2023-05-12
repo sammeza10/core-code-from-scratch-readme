@@ -1,6 +1,6 @@
 #  What is x?
 
-### JS Hero 
+### JS Hero 🥋
 
     Which value does x have after execution of the following code?
 
