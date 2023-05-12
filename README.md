@@ -139,3 +139,5 @@
 
 1 [Variables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Variables.md)
 
+1 [What is x?](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/What%20is%20x%3F.md)
+
