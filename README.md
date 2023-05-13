@@ -157,5 +157,6 @@
 
 4 [What is x? (function version)](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/What%20is%20x%3F.md)
 
+5 [Parameters](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Parameters.md)
 
 
