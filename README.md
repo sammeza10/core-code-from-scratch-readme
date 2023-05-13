@@ -155,5 +155,7 @@
 
 3 [Function calls](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Function%20calls.md)
 
+4 [What is x? (function version)](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/What%20is%20x%3F.md)
+
 
 
