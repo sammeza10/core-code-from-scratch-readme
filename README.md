@@ -4,7 +4,7 @@
 
 ## Week 1 Algorithms
 
-### Wednesday
+### Wednesday 💻
 
 1 [Let's make pizza 🍕](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Let's%20make%20pizza%20%F0%9F%8D%95.md)
 
@@ -12,7 +12,7 @@
 
 3 [Geometry 📐](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Geometry%20%F0%9F%93%90.md)
 
-### Thursday
+### Thursday 💻
 
 1 [Numbers 📊](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Numbers%20%F0%9F%93%8A.md)
 
@@ -42,7 +42,7 @@
 
 3 [Register form](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Register%20form.md)
 
-### Thursday
+### Thursday 💻
 
 1 [Truth tables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Truth%20tables.md)
 
@@ -159,4 +159,15 @@
 
 5 [Parameters](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Parameters.md)
 
+### Thursday 💻
+
+1 [Strings](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Strings.md)
+
+2 [String: length](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20length.md)
+
+3 [String: toUpperCase()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20toUpperCase().md)
+
+4 [String: charAt()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20charAt().md)
+
+5 [String: indexOf()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20indexOf().md)
 
