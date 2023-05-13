@@ -9,3 +9,6 @@ Which value does x have after execution of the following code?
     }
 
     let x = reply('How do you do?');
+
+
+Answer: 'How do you do?'
