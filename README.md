@@ -147,4 +147,9 @@
 
 5 [Assign variables](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Assign%20variables.md)
 
+### Wednesday 💻
+
+1 [Functions](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Functions.md)
+
+
 
