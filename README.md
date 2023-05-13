@@ -153,6 +153,7 @@
 
 2 [Multiple functions](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Multiple%20functions.md)
 
+3 [Function calls](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Function%20calls.md)
 
 
 
