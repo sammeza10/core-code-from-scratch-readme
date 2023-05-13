@@ -151,5 +151,8 @@
 
 1 [Functions](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Functions.md)
 
+2 [Multiple functions](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Multiple%20functions.md)
+
+
 
 
