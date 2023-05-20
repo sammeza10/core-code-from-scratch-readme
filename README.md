@@ -177,7 +177,7 @@
 
 1 [String: substr()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20substr().md)
 
-2 []()
+2 [String: replace().md](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20replace().md)
 
 3 []()
 
