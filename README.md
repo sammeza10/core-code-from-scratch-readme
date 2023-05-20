@@ -171,3 +171,14 @@
 
 5 [String: indexOf()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20indexOf().md)
 
+## Week 7 JavaScript 
+
+### Monday 💻
+
+1 [String: substr()](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20substr().md)
+
+2 []()
+
+3 []()
+
+4 []()
