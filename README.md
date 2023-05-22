@@ -184,3 +184,7 @@
 4 [Fahrenheit](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Fahrenheit.md)
 
 5 [Boolean](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Boolean.md)
+
+### Tuesday 💻
+
+1 []()
