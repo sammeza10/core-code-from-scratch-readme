@@ -181,4 +181,4 @@
 
 3 [Increment](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Increment.md)
 
-4 []()
+4 [Fahrenheit](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Fahrenheit.md)
