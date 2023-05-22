@@ -187,4 +187,4 @@
 
 ### Tuesday 💻
 
-1 []()
+1 [Objects](https://github.com/sammeza10/core-code-from-scratch-readme/edit/main/challenges/Objects.md)
