@@ -179,6 +179,6 @@
 
 2 [String: replace().md](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%3A%20replace().md)
 
-3 []()
+3 [Increment](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Increment.md)
 
 4 []()
