@@ -190,3 +190,9 @@
 1 [Objects](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Objects.md)
 
 2 [Return to sanity](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Return%20to%20sanity.md)
+
+3 [Object syntax debug](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Object%20syntax%20debug.md) 
+
+### Wednesday 💻
+
+4 []()
