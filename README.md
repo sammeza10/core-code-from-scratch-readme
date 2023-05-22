@@ -188,4 +188,5 @@
 ### Tuesday 💻
 
 1 [Objects](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Objects.md)
-2 [] ()
+
+2 [Return to sanity](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Return%20to%20sanity.md)
