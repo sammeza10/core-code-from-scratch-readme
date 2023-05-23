@@ -201,4 +201,12 @@
 
 3 [Object Oriented Piracy](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Object%20Oriented%20Piracy.md)
 
-4 []()
+### Thursday 💻
+
+1 [Convert a String to a Number!]([Convert a String to a Number!](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Convert%20a%20String%20to%20a%20Number!.md))
+
+2 [Convert number to reversed array of digits](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Convert%20number%20to%20reversed%20array%20of%20digits.md)
+
+3 [Truthy and Falsy](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Truthy%20and%20Falsy.md)
+
+4 [Basic data types--Array](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Basic%20data%20types--Array.md)
