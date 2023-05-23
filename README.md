@@ -195,4 +195,10 @@
 
 ### Wednesday 💻
 
+1 [Count strings in objects](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Count%20strings%20in%20objects.md)
+
+2 [Extending JavaScript Objects: Get First & Last Array Element](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Extending%20JavaScript%20Objects%3A%20Get%20First%20%26%20Last%20Array%20Element.md)
+
+3 [Object Oriented Piracy](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Object%20Oriented%20Piracy.md)
+
 4 []()
