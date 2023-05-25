@@ -210,3 +210,14 @@
 3 [Truthy and Falsy](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Truthy%20and%20Falsy.md)
 
 4 [Basic data types--Array](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Basic%20data%20types--Array.md)
+
+## Week 8 JavaScript 
+
+### Monday 💻
+
+1 [if..else and ternary operator!](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/if..else%20and%20ternary%20operator!.md)
+
+2 []()
+
+3 []()
+
