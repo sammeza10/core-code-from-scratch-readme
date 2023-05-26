@@ -224,6 +224,8 @@
 ### Tuesday 💻
 
 1 [Even or odd](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Even%20or%20oddjs.md) 
+
 2 [A wolf in sheep's clothing](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/A%20wolf%20in%20sheep's%20clothing.md)
-3 []()
+
+3 [Decode the morse code]()
 
