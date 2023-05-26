@@ -217,7 +217,7 @@
 
 1 [if..else and ternary operator!](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/if..else%20and%20ternary%20operator!.md)
 
-2 []()
+2 [Conditional statement--switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Conditional%20statement--switch.md)
 
 3 []()
 
