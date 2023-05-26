@@ -229,3 +229,22 @@
 
 3 [Decode the morse code]()
 
+### Wednesday 💻
+
+1 [Who likes it?]()
+
+2 [Bit counting]()
+
+3 [Your order, please]()
+
+### Thursday 💻
+
+1 [Counting duplicates]()
+
+2 [Encrypt this!]()
+
+3 [Valid parentheses]()
+
+4 [Convert string to camel case]()
+
+
