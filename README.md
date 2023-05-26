@@ -219,5 +219,5 @@
 
 2 [Conditional statement--switch](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Conditional%20statement--switch.md)
 
-3 []()
+3 [Basic Calculator](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Basic%20Calculator.md)
 
