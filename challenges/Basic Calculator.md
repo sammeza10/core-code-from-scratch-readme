@@ -12,3 +12,18 @@ Write a function called calculate that takes 3 values. The first and third value
     calculate(4,"/",0) //should return null
 
 Keep in mind, you cannot divide by zero. If an attempt to divide by zero is made, return null (throw an ArgumentException in C#)/(None in Python).
+
+        function calculate(num1, operation, num2) {
+          switch (operation){
+              case '+':
+                return num1 + num2;
+              case '-':
+                return num1 - num2;
+              case '*':
+                return num1 * num2;
+              case '/':
+                return num2 != 0 ? num1/num2 : null;
+              default:
+                return null;
+          }
+        }
