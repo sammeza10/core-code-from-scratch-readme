@@ -227,15 +227,15 @@
 
 2 [A wolf in sheep's clothing](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/A%20wolf%20in%20sheep's%20clothing.md)
 
-3 [Decode the morse code]()
+3 [Decode the morse code](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Decode%20the%20morse%20code.md)
 
 ### Wednesday 💻
 
-1 [Who likes it?]()
+1 [Who likes it?](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Who%20likes%20it%3F.md)
 
-2 [Bit counting]()
+2 [Bit counting](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Bit%20counting.md)
 
-3 [Your order, please]()
+3 [Your order, please](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Your%20order%2C%20please.md)
 
 ### Thursday 💻
 
