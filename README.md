@@ -239,12 +239,12 @@
 
 ### Thursday 💻
 
-1 [Counting duplicates]()
+1 [Counting duplicates](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Counting%20duplicates.md)
 
-2 [Encrypt this!]()
+2 [Encrypt this!](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Encrypt%20this!.md)
 
-3 [Valid parentheses]()
+3 [Valid parentheses](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Valid%20parentheses.md)
 
-4 [Convert string to camel case]()
+4 [Convert string to camel case](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Convert%20string%20to%20camel%20case.md)
 
 
