@@ -247,4 +247,35 @@
 
 4 [Convert string to camel case](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Convert%20string%20to%20camel%20case.md)
 
+## Week 9 Javascript
+
+### Monday 💻
+
+1 []()
+
+2 []()
+
+3 []()
+
+### Tuesday 💻
+
+1 []()
+
+2 []()
+
+3 []()
+
+### Wednesday 💻
+
+1 []()
+
+2 []()
+
+3 []()
+
+### Thursday 💻
+
+1 []()
+
+2 []()
 
