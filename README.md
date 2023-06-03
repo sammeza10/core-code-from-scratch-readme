@@ -251,11 +251,11 @@
 
 ### Monday 💻
 
-1 []()
+1 ["this" is a problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/%22this%22%20is%20a%20problem.md)
 
-2 []()
+2 [Thinkful - List and Loop Drills: Lists of lists](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Thinkful%20-%20List%20and%20Loop%20Drills%3A%20Lists%20of%20lists.md)
 
-3 []()
+3 [Stop gninnipS My sdroW!](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Stop%20gninnipS%20My%20sdroW!.md)
 
 ### Tuesday 💻
 
