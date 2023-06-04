@@ -259,7 +259,7 @@
 
 ### Tuesday 💻
 
-1 []()
+1 ["this" is an other problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/%22this%22%20is%20an%20other%20problem.md)
 
 2 []()
 
@@ -267,7 +267,7 @@
 
 ### Wednesday 💻
 
-1 []()
+1 [Easy mathematical callback](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Easy%20mathematical%20callback.md)
 
 2 []()
 
