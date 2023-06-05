@@ -261,21 +261,21 @@
 
 1 ["this" is an other problem](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/%22this%22%20is%20an%20other%20problem.md)
 
-2 []()
+2 [Who likes it?](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Who%20likes%20it%3F.md)
 
-3 []()
+3 [Convert string to camel case](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Convert%20string%20to%20camel%20case.md)
 
 ### Wednesday 💻
 
 1 [Easy mathematical callback](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Easy%20mathematical%20callback.md)
 
-2 []()
+2 [Moving Zeros To The End](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Moving%20Zeros%20To%20The%20End.md)
 
-3 []()
+3 [Valid Parentheses](https://github.com/corecodeio/Fundamentals-23.1PM/tree/main/src/technologies/2022/week09)
 
 ### Thursday 💻
 
-1 []()
+1 [The Hashtag Generator](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/The%20Hashtag%20Generator.md)
 
-2 []()
+2 [String incrementer](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%20incrementer.md)
 
