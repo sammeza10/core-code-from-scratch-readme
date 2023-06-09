@@ -282,6 +282,6 @@
 
 ## Week 10 Pseudocode
 
-### Monday 💻
+1[Base calc code](https://github.com/sammeza10/core-code-from-scratch-readme/tree/main/challenges/fundamentals-calc-main)
 
 
