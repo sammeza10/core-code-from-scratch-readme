@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Calc</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body>
+    <div class="calculator">
+      <input id="display" class="display" value="0" readonly />
+      <div class="number-pad">
+        <button onclick="clearDisplay()" class="button operation">AC</button>
+        <button onclick="changeSign()" class="button operation">±</button>
+        <button onclick="appendToDisplay('%')" class="button operation">
+          %
+        </button>
+        <button onclick="appendToDisplay('/')" class="button operation">
+          ÷
+        </button>
+        <button onclick="appendToDisplay('7')" class="button number-7">
+          7
+        </button>
+        <button onclick="appendToDisplay('8')" class="button number-8">
+          8
+        </button>
+        <button onclick="appendToDisplay('9')" class="button number-9">
+          9
+        </button>
+        <button onclick="appendToDisplay('*')" class="button operation">
+          *
+        </button>
+        <button onclick="appendToDisplay('4')" class="button number-4">
+          4
+        </button>
+        <button onclick="appendToDisplay('5')" class="button number-5">
+          5
+        </button>
+        <button onclick="appendToDisplay('6')" class="button number-6">
+          6
+        </button>
+        <button onclick="appendToDisplay('-')" class="button operation">
+          -
+        </button>
+        <button onclick="appendToDisplay('1')" class="button number-1">
+          1
+        </button>
+        <button onclick="appendToDisplay('2')" class="button number-2">
+          2
+        </button>
+        <button onclick="appendToDisplay('3')" class="button number-3">
+          3
+        </button>
+        <button onclick="appendToDisplay('+')" class="button operation">
+          +
+        </button>
+        <button onclick="appendToDisplay('0')" class="button number-0">
+          0
+        </button>
+        <button onclick="appendToDisplay('.')" class="button decimal">.</button>
+        <button onclick="calculate()" class="button equal">=</button>
+      </div>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>
