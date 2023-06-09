@@ -280,7 +280,7 @@
 2 [String incrementer](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/String%20incrementer.md)
 
 
-## Week 10 Pseudocode
+## Week 10 Javascript
 
 1 [Base calc code](https://github.com/sammeza10/core-code-from-scratch-readme/tree/main/challenges/fundamentals-calc-main)
 
