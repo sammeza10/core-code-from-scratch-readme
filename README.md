@@ -281,6 +281,6 @@
 
 ## Week 10 Javascript
 
-1 [Base calc code](https://github.com/sammeza10/calculator)
+1 [Base calc code](https://github.com/sammeza10/calculator#readme)
 
 
