@@ -3,7 +3,6 @@
 ## Challenges
 
 ## Week 1 Algorithms
-
 ### Wednesday 💻
 
 1 [Let's make pizza 🍕](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Let's%20make%20pizza%20%F0%9F%8D%95.md)
@@ -282,6 +281,6 @@
 
 ## Week 10 Javascript
 
-1 [Base calc code](https://github.com/sammeza10/core-code-from-scratch-readme/tree/main/challenges/fundamentals-calc-main](https://github.com/sammeza10/calculator)
+1 [Base calc code](https://github.com/sammeza10/calculator)
 
 
