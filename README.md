@@ -297,8 +297,8 @@
 
 ### Wednesday 💻
 
-1 []()
-2 []()
-3 []()
-4 []()
-5 []()
+1 [Client-Server Model]()
+2 [HTTP Core Understanding]()
+3 [APIs Core Understanding]()
+4 [From JSON to REST]()
+5 [REST API Clients]()
