@@ -286,10 +286,19 @@
 ## Week 12 Node
 
 ### Tuesday 💻
-1[Node.JS Core Understanding ]()
 
-2[]()
+1 [Node.JS Core Understanding ]()
 
-3[]()
+2 [Node.JS Module System Core Understanding ]()
 
-4[]()
+3 [Node.JS Hello World! 🌐 ]()
+
+4 [Node.JS Module System ]()
+
+### Wednesday 💻
+
+1 []()
+2 []()
+3 []()
+4 []()
+5 []()
