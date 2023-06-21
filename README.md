@@ -283,4 +283,13 @@
 
 1 [Base calc code](https://github.com/sammeza10/calculator#readme)
 
+## Week 12 Node
 
+### Tuesday 💻
+1[Node.JS Core Understanding ]()
+
+2[]()
+
+3[]()
+
+4[]()
