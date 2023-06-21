@@ -306,3 +306,12 @@
 4 [From JSON to REST]()
 
 5 [REST API Clients]()
+
+### Thursday 💻
+
+1 [Express.JS Core Understanding]()
+
+2 [Forrest Gump Ping-Pong API 🏓]()
+
+3 [Delayed Response API ⏳ ]()
+
