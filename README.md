@@ -287,9 +287,9 @@
 
 ### Tuesday 💻
 
-1 [Node.JS Core Understanding ]()
+1 [Node.JS Core Understanding ](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Node.JS%20Core%20Understandin.md)
 
-2 [Node.JS Module System Core Understanding ]()
+2 [Node.JS Module System Core Understanding](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Node.JS%20Module%20System%20Core%20Understanding.md)
 
 3 [Node.JS Hello World! 🌐 ]()
 
