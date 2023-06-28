@@ -35,3 +35,8 @@ Create a simple REST API that tries to predict an age based on a name.
     "error": "Missing parameter 'name' was expected."
   }
   ```
+
+
+## Link
+
+https://github.com/sammeza10/Node.JS-Module-System/tree/main/age%20prediction
