@@ -315,3 +315,13 @@
 
 3 [Delayed Response API ⏳ ](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Delayed%20Response%20API.md)
 
+## Week 12 Node
+
+### Monday 💻
+
+1 [Age Prediction API](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Age%20Prediction%20API.md)
+
+2 []()
+
+3 []()
+
