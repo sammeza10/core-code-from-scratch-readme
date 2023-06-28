@@ -301,17 +301,17 @@
 
 2 [HTTP Core Understanding](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/HTTP%20Learning.md)
 
-3 [APIs Core Understanding]()
+3 [APIs Core Understanding](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/APIs%20Core%20Understanding.md)
 
-4 [From JSON to REST]()
+4 [From JSON to REST](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/From%20JSON%20to%20REST.md)
 
 5 [REST API Clients]()
 
 ### Thursday 💻
 
-1 [Express.JS Core Understanding]()
+1 [Express.JS Core Understanding](https://github.com/corecodeio/Fundamentals-23.1PM/blob/main/src/technologies/2022/week12/challenges/e02/EXPRESS-CORE.md)
 
-2 [Forrest Gump Ping-Pong API 🏓]()
+2 [Forrest Gump Ping-Pong API 🏓](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Forrest%20Gump%20Ping-Pong%20API.md)
 
 3 [Delayed Response API ⏳ ]()
 
