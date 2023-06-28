@@ -293,7 +293,7 @@
 
 3 [Node.JS Hello World! 🌐 ](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Node.JS%20Hello%20World!.md)
 
-4 [Node.JS Module System ]()
+4 [Node.JS Module System ](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Node.JS%20Module%20System.md)
 
 ### Wednesday 💻
 
