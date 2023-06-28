@@ -297,9 +297,9 @@
 
 ### Wednesday 💻
 
-1 [Client-Server Model]()
+1 [Client-Server Model](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Client-Server%20Model.md)
 
-2 [HTTP Core Understanding]()
+2 [HTTP Core Understanding](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/HTTP%20Learning.md)
 
 3 [APIs Core Understanding]()
 
