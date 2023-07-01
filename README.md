@@ -320,8 +320,3 @@
 ### Monday 💻
 
 1 [Age Prediction API](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Age%20Prediction%20API.md)
-
-2 [Secrets Box API Challenge](https://github.com/sammeza10/core-code-from-scratch-readme/blob/main/challenges/Secrets%20Box%20API%20Challenge.md)
-
-3 [The SQL Murder Mystery Walkthrough - Learning Exercise]()
-
